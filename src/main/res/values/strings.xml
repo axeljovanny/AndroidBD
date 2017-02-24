@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Orders</string>
+    <string name="type_product_name">Type product name</string>
+    <string name="type_price_of_product">Type price of product</string>
+    <string name="save_product">Save product</string>
+    <string name="type_stock_product">Type stock product</string>
+    <string name="value">Value</string>
+    <string name="spelling">Spelling</string>
+    <string name="abbreviation">Abbreviation</string>
+    <string name="save">Save</string>
+    <string name="english_value">English Value</string>
+    <string name="english_abbreviation">English Abbreviation</string>
+    <string name="english_spelling">English Spelling</string>
+</resources>
